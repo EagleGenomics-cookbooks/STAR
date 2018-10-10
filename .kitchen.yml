@@ -8,7 +8,7 @@ verifier:
   name: inspec
   sudo_command: . /etc/profile;
 platforms:
-- name: ubuntu-14.04
+- name: ubuntu-1404
 #  - name: centos-7.2
 suites:
 - name: default
