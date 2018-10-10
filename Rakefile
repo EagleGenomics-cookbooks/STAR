@@ -26,4 +26,4 @@ desc 'Run kitchen: includes destroy, converge, verify - default: all'
 task kitchen: [:all]
 
 desc 'Run both tests, kitchen converge and verify'
-task default: %i(tests, :kitchen)
+task default: %i(tests kitchen)

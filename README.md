@@ -1,5 +1,5 @@
 # star
 
-[![Build Status](https://travis-ci.org/EagleGenomics-cookbooks/STAR.svg?branch=master)](https://travis-ci.org/EagleGenomics-cookbooks/STAR)
+https://travis-ci.org/EagleGenomics-cookbooks/STAR.svg?branch=master
 
 Cookbook for installing star

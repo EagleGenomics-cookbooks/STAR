@@ -7,7 +7,7 @@
 include_recipe 'apt'
 include_recipe 'tar'
 
-tar_extract "#{node['star']['download_url']}" do
+tar_extract "node['star']['download_url']" do
   target_dir node['star']['install_dir']
   creates node['star']['dir']
 end
