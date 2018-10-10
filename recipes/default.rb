@@ -5,7 +5,6 @@
 # Copyright:: 2018, Eagle Genomics Ltd, All Rights Reserved.
 
 include_recipe 'apt'
-include_recipe 'build-essential'
 include_recipe 'tar'
 
 tar_extract "#{node['star']['download_url']}" do
