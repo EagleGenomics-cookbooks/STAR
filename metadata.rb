@@ -1,4 +1,4 @@
-name 'star'
+name 'STAR'
 maintainer 'Eagle Genomics Ltd.'
 maintainer_email 'chef@eaglegenomics.com'
 license 'Apache-2.0'
