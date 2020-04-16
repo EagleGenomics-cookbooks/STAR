@@ -4,7 +4,7 @@
 #
 # Copyright:: 2018, Eagle Genomics Ltd, All Rights Reserved.
 
-default['star']['version'] = '2.6.1b'
+default['star']['version'] = '2.7.3a'
 default['star']['base_name'] = 'STAR-' + node['star']['version']
 default['star']['archive'] = node['star']['base_name'] + '.tar.gz'
 default['star']['install_dir'] = '/usr/local'

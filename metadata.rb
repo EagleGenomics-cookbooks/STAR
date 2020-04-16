@@ -8,7 +8,7 @@ chef_version '>= 14.10'
 supports 'ubuntu', '= 18.04'
 source_url 'https://github.com/EagleGenomics-cookbooks/STAR'
 issues_url 'https://github.com/EagleGenomics-cookbooks/STAR/issues'
-version '0.0.1'
+version '0.0.2'
 
 depends 'magic_shell', '= 1.0.1'
 depends 'tar'
